@@ -1,0 +1,997 @@
+,image_id,dx,age,sex,localization
+7315,ISIC_0032679,nv,60.0,unknown,foot
+2856,ISIC_0028084,bcc,80.0,male,back
+1139,ISIC_0030757,df,80.0,male,upper extremity
+6412,ISIC_0029066,nv,35.0,male,trunk
+5416,ISIC_0031397,nv,60.0,male,abdomen
+437,ISIC_0029108,bkl,35.0,female,face
+5580,ISIC_0025999,nv,50.0,female,foot
+2822,ISIC_0030452,bcc,80.0,male,upper extremity
+939,ISIC_0033270,bkl,85.0,male,back
+5530,ISIC_0029863,nv,50.0,male,trunk
+1624,ISIC_0032598,mel,50.0,female,back
+6411,ISIC_0026807,nv,55.0,female,upper extremity
+6003,ISIC_0026264,nv,75.0,male,upper extremity
+5950,ISIC_0030111,nv,45.0,male,abdomen
+1206,ISIC_0025771,df,35.0,female,lower extremity
+8305,ISIC_0029196,nv,25.0,male,chest
+6707,ISIC_0030980,nv,20.0,male,back
+6021,ISIC_0029295,nv,40.0,male,abdomen
+2,ISIC_0026769,bkl,80.0,male,scalp
+1560,ISIC_0032569,mel,30.0,male,back
+1315,ISIC_0027253,mel,75.0,male,trunk
+2987,ISIC_0025384,nv,45.0,female,trunk
+4911,ISIC_0026066,nv,50.0,male,lower extremity
+5049,ISIC_0025845,nv,65.0,male,abdomen
+8710,ISIC_0029696,nv,65.0,female,upper extremity
+9372,ISIC_0027961,nv,0.0,male,chest
+6658,ISIC_0031695,nv,45.0,female,upper extremity
+6732,ISIC_0027718,nv,35.0,male,back
+7044,ISIC_0027697,nv,40.0,male,upper extremity
+5129,ISIC_0031179,nv,45.0,female,lower extremity
+6358,ISIC_0026982,nv,50.0,male,lower extremity
+2674,ISIC_0029564,bcc,55.0,female,face
+7918,ISIC_0032884,nv,80.0,male,abdomen
+4697,ISIC_0024713,nv,50.0,female,trunk
+2855,ISIC_0031552,bcc,70.0,female,face
+6713,ISIC_0026367,nv,45.0,male,face
+5843,ISIC_0031305,nv,45.0,male,abdomen
+7197,ISIC_0033137,nv,5.0,female,lower extremity
+7186,ISIC_0033625,nv,35.0,female,lower extremity
+5855,ISIC_0032393,nv,70.0,male,trunk
+3516,ISIC_0024856,nv,75.0,male,lower extremity
+2825,ISIC_0024949,bcc,75.0,male,upper extremity
+837,ISIC_0028623,bkl,30.0,female,back
+3183,ISIC_0028424,nv,40.0,male,trunk
+1621,ISIC_0034269,mel,80.0,male,face
+1839,ISIC_0033055,mel,45.0,male,back
+2138,ISIC_0028685,mel,55.0,male,back
+7456,ISIC_0034025,nv,50.0,male,back
+8585,ISIC_0029993,nv,80.0,female,lower extremity
+5933,ISIC_0031224,nv,50.0,female,lower extremity
+4268,ISIC_0030562,nv,50.0,female,upper extremity
+3290,ISIC_0025922,nv,45.0,male,abdomen
+8345,ISIC_0029215,nv,35.0,male,abdomen
+8796,ISIC_0026674,nv,35.0,male,lower extremity
+234,ISIC_0034235,bkl,80.0,male,scalp
+1854,ISIC_0033534,mel,35.0,female,upper extremity
+9364,ISIC_0024734,nv,25.0,male,foot
+6514,ISIC_0029120,nv,70.0,male,trunk
+7922,ISIC_0032670,nv,20.0,female,abdomen
+4990,ISIC_0024844,nv,60.0,male,back
+385,ISIC_0027344,bkl,70.0,male,lower extremity
+4773,ISIC_0031587,nv,60.0,male,upper extremity
+9405,ISIC_0033765,nv,45.0,female,unknown
+4844,ISIC_0030987,nv,50.0,female,upper extremity
+7073,ISIC_0031501,nv,25.0,male,hand
+9707,ISIC_0031191,akiec,60.0,male,lower extremity
+7766,ISIC_0033398,nv,45.0,male,face
+1372,ISIC_0029017,mel,45.0,female,back
+5329,ISIC_0030152,nv,75.0,male,back
+3483,ISIC_0027085,nv,35.0,male,trunk
+4224,ISIC_0026200,nv,50.0,female,lower extremity
+4483,ISIC_0025704,nv,55.0,female,back
+8932,ISIC_0028592,nv,20.0,male,lower extremity
+7666,ISIC_0033637,nv,35.0,female,back
+3000,ISIC_0032226,nv,50.0,male,lower extremity
+7582,ISIC_0032512,nv,40.0,female,back
+1602,ISIC_0032544,mel,60.0,male,back
+7377,ISIC_0032785,nv,45.0,male,upper extremity
+1913,ISIC_0033431,mel,65.0,female,upper extremity
+4257,ISIC_0030614,nv,50.0,male,trunk
+3056,ISIC_0025723,nv,35.0,male,back
+4248,ISIC_0031969,nv,75.0,female,back
+2867,ISIC_0029831,bcc,85.0,male,upper extremity
+7602,ISIC_0032882,nv,35.0,female,abdomen
+3576,ISIC_0024429,nv,55.0,male,trunk
+4306,ISIC_0024820,nv,50.0,female,trunk
+7814,ISIC_0033433,nv,20.0,male,foot
+1169,ISIC_0033780,df,35.0,female,lower extremity
+338,ISIC_0031321,bkl,70.0,male,back
+9712,ISIC_0026362,akiec,60.0,female,upper extremity
+4683,ISIC_0026648,nv,55.0,female,lower extremity
+9038,ISIC_0027789,nv,45.0,female,lower extremity
+8085,ISIC_0028429,nv,40.0,female,trunk
+7292,ISIC_0025541,nv,25.0,female,hand
+7802,ISIC_0033434,nv,70.0,male,back
+8802,ISIC_0030167,nv,65.0,male,scalp
+3252,ISIC_0028136,nv,60.0,male,abdomen
+1512,ISIC_0032447,mel,70.0,male,chest
+7213,ISIC_0033989,nv,50.0,female,lower extremity
+8509,ISIC_0025960,nv,75.0,male,ear
+9156,ISIC_0028118,nv,80.0,male,back
+3223,ISIC_0025749,nv,55.0,male,back
+3097,ISIC_0029149,nv,45.0,female,lower extremity
+4329,ISIC_0025147,nv,40.0,female,lower extremity
+168,ISIC_0033601,bkl,40.0,female,trunk
+7114,ISIC_0026423,nv,45.0,male,abdomen
+5322,ISIC_0029361,nv,50.0,male,trunk
+7851,ISIC_0033737,nv,60.0,female,upper extremity
+3116,ISIC_0030338,nv,50.0,female,trunk
+2812,ISIC_0032461,bcc,40.0,female,back
+4516,ISIC_0030221,nv,45.0,female,trunk
+1815,ISIC_0033226,mel,65.0,male,upper extremity
+3136,ISIC_0032501,nv,35.0,female,genital
+5941,ISIC_0031393,nv,50.0,female,upper extremity
+2962,ISIC_0024411,bcc,75.0,male,face
+4364,ISIC_0026062,nv,40.0,female,trunk
+2316,ISIC_0027832,mel,75.0,male,lower extremity
+2543,ISIC_0031442,bcc,70.0,male,lower extremity
+3441,ISIC_0028967,nv,45.0,female,foot
+5391,ISIC_0031873,nv,45.0,female,lower extremity
+1178,ISIC_0033847,df,45.0,male,abdomen
+746,ISIC_0031496,bkl,70.0,male,lower extremity
+5823,ISIC_0031316,nv,45.0,male,upper extremity
+4639,ISIC_0029921,nv,30.0,male,abdomen
+2511,ISIC_0025793,bcc,60.0,male,trunk
+3747,ISIC_0030911,nv,40.0,female,trunk
+8577,ISIC_0026698,nv,60.0,male,lower extremity
+3781,ISIC_0030814,nv,45.0,female,lower extremity
+4831,ISIC_0027321,nv,55.0,female,upper extremity
+1876,ISIC_0033498,mel,50.0,female,foot
+6364,ISIC_0028956,nv,30.0,female,trunk
+5261,ISIC_0026899,nv,50.0,female,trunk
+7364,ISIC_0032549,nv,25.0,female,chest
+2098,ISIC_0026811,mel,55.0,male,face
+7812,ISIC_0032518,nv,5.0,female,foot
+7685,ISIC_0030420,nv,30.0,male,chest
+3955,ISIC_0030518,nv,65.0,female,lower extremity
+5637,ISIC_0029011,nv,40.0,female,trunk
+3210,ISIC_0030599,nv,45.0,female,back
+5514,ISIC_0028330,nv,55.0,male,trunk
+2611,ISIC_0033354,bcc,65.0,male,face
+4579,ISIC_0031787,nv,60.0,female,unknown
+4419,ISIC_0030220,nv,45.0,male,trunk
+1102,ISIC_0032468,df,75.0,female,lower extremity
+4159,ISIC_0030402,nv,60.0,male,back
+8705,ISIC_0028689,nv,30.0,male,lower extremity
+2894,ISIC_0031470,bcc,65.0,female,back
+7705,ISIC_0032801,nv,30.0,female,abdomen
+119,ISIC_0028646,bkl,75.0,male,upper extremity
+7337,ISIC_0032901,nv,30.0,male,upper extremity
+2384,ISIC_0028146,vasc,60.0,female,back
+5631,ISIC_0027762,nv,50.0,male,trunk
+3168,ISIC_0030669,nv,40.0,male,abdomen
+2178,ISIC_0029893,mel,65.0,male,face
+8384,ISIC_0031623,nv,35.0,female,back
+4814,ISIC_0024895,nv,50.0,female,back
+6997,ISIC_0024340,nv,10.0,female,foot
+3654,ISIC_0024803,nv,45.0,female,back
+9015,ISIC_0028243,nv,55.0,male,back
+1817,ISIC_0032790,mel,65.0,male,back
+9742,ISIC_0025331,akiec,80.0,male,face
+966,ISIC_0034280,bkl,60.0,female,back
+1154,ISIC_0026417,df,30.0,male,lower extremity
+9018,ISIC_0026179,nv,40.0,male,back
+1584,ISIC_0033286,mel,85.0,male,chest
+9341,ISIC_0027970,nv,25.0,male,lower extremity
+7597,ISIC_0034116,nv,35.0,female,trunk
+1176,ISIC_0027488,df,45.0,male,lower extremity
+758,ISIC_0030605,bkl,85.0,male,back
+6924,ISIC_0027812,nv,45.0,female,upper extremity
+6672,ISIC_0032267,nv,45.0,female,upper extremity
+1735,ISIC_0032938,mel,70.0,male,trunk
+7024,ISIC_0031674,nv,40.0,male,scalp
+3505,ISIC_0028613,nv,35.0,male,lower extremity
+8004,ISIC_0025970,nv,60.0,female,lower extremity
+9961,ISIC_0026468,akiec,50.0,male,hand
+6782,ISIC_0024891,nv,55.0,female,scalp
+9793,ISIC_0024450,akiec,50.0,male,upper extremity
+1291,ISIC_0032265,mel,50.0,male,abdomen
+8706,ISIC_0028151,nv,60.0,male,back
+699,ISIC_0028943,bkl,70.0,male,face
+2483,ISIC_0026574,bcc,70.0,male,lower extremity
+6771,ISIC_0024798,nv,70.0,male,upper extremity
+3150,ISIC_0025593,nv,50.0,female,abdomen
+1465,ISIC_0026086,mel,55.0,male,upper extremity
+3111,ISIC_0026339,nv,50.0,female,trunk
+5990,ISIC_0032381,nv,55.0,male,lower extremity
+4978,ISIC_0024528,nv,25.0,female,upper extremity
+8488,ISIC_0028304,nv,60.0,female,back
+1248,ISIC_0024367,mel,35.0,female,back
+5560,ISIC_0025565,nv,40.0,male,trunk
+128,ISIC_0032949,bkl,85.0,female,face
+8644,ISIC_0031612,nv,45.0,male,back
+6656,ISIC_0028732,nv,70.0,male,lower extremity
+7648,ISIC_0033788,nv,10.0,female,upper extremity
+4188,ISIC_0028552,nv,60.0,male,trunk
+5775,ISIC_0030948,nv,50.0,female,trunk
+4973,ISIC_0026418,nv,50.0,female,trunk
+835,ISIC_0031132,bkl,75.0,male,back
+6190,ISIC_0027177,nv,25.0,male,trunk
+3444,ISIC_0031572,nv,45.0,female,abdomen
+2435,ISIC_0026490,vasc,65.0,female,trunk
+789,ISIC_0031349,bkl,75.0,female,face
+2781,ISIC_0024452,bcc,40.0,male,back
+4835,ISIC_0029261,nv,55.0,female,lower extremity
+5116,ISIC_0028753,nv,55.0,male,lower extremity
+9907,ISIC_0026626,akiec,65.0,female,face
+9436,ISIC_0032837,nv,20.0,male,back
+4328,ISIC_0030196,nv,50.0,female,lower extremity
+9275,ISIC_0030485,nv,60.0,female,abdomen
+4189,ISIC_0024965,nv,60.0,male,genital
+2761,ISIC_0028937,bcc,80.0,male,face
+1874,ISIC_0032807,mel,50.0,male,face
+4090,ISIC_0027299,nv,40.0,male,lower extremity
+8867,ISIC_0029803,nv,25.0,female,back
+9890,ISIC_0026178,akiec,60.0,male,back
+9285,ISIC_0024818,nv,40.0,male,back
+9711,ISIC_0024562,akiec,75.0,male,chest
+937,ISIC_0033531,bkl,85.0,male,back
+757,ISIC_0028931,bkl,70.0,male,lower extremity
+1677,ISIC_0033863,mel,65.0,female,back
+5872,ISIC_0026345,nv,35.0,female,trunk
+1690,ISIC_0032913,mel,85.0,male,abdomen
+1539,ISIC_0033362,mel,85.0,female,back
+682,ISIC_0031287,bkl,75.0,female,lower extremity
+4721,ISIC_0024735,nv,50.0,male,trunk
+3053,ISIC_0028446,nv,45.0,male,lower extremity
+3927,ISIC_0031357,nv,45.0,female,abdomen
+5238,ISIC_0028244,nv,50.0,male,lower extremity
+9728,ISIC_0031874,akiec,65.0,female,face
+6670,ISIC_0026589,nv,45.0,female,upper extremity
+3525,ISIC_0029211,nv,75.0,male,lower extremity
+6701,ISIC_0026519,nv,40.0,male,lower extremity
+6459,ISIC_0027054,nv,40.0,female,trunk
+4242,ISIC_0025997,nv,50.0,female,trunk
+1463,ISIC_0034071,mel,50.0,male,back
+5215,ISIC_0027923,nv,50.0,female,back
+4063,ISIC_0027438,nv,65.0,male,lower extremity
+3684,ISIC_0029381,nv,30.0,male,back
+9246,ISIC_0029498,nv,60.0,female,chest
+1870,ISIC_0032690,mel,50.0,male,face
+7948,ISIC_0034056,nv,25.0,female,ear
+5940,ISIC_0024631,nv,50.0,female,upper extremity
+6639,ISIC_0032457,nv,35.0,female,lower extremity
+5794,ISIC_0024533,nv,45.0,male,hand
+5616,ISIC_0026881,nv,50.0,female,back
+2026,ISIC_0029056,mel,85.0,male,back
+8772,ISIC_0028400,nv,65.0,male,back
+9209,ISIC_0028891,nv,25.0,female,lower extremity
+3052,ISIC_0029526,nv,45.0,male,back
+3335,ISIC_0024692,nv,45.0,female,abdomen
+5300,ISIC_0025291,nv,50.0,male,lower extremity
+842,ISIC_0025103,bkl,70.0,female,face
+9750,ISIC_0027678,akiec,60.0,male,back
+7568,ISIC_0033702,nv,35.0,female,back
+1500,ISIC_0029909,mel,75.0,female,ear
+5502,ISIC_0025037,nv,75.0,male,trunk
+1314,ISIC_0032450,mel,70.0,male,back
+1299,ISIC_0032019,mel,50.0,male,trunk
+6646,ISIC_0027368,nv,60.0,male,abdomen
+7485,ISIC_0032893,nv,40.0,female,back
+1101,ISIC_0027613,df,75.0,female,lower extremity
+8671,ISIC_0025443,nv,75.0,male,back
+2069,ISIC_0027030,mel,65.0,female,lower extremity
+3940,ISIC_0032234,nv,60.0,male,upper extremity
+3570,ISIC_0031250,nv,45.0,male,lower extremity
+5561,ISIC_0031487,nv,40.0,male,trunk
+7998,ISIC_0033147,nv,35.0,female,upper extremity
+9282,ISIC_0028067,nv,60.0,female,abdomen
+8965,ISIC_0029182,nv,60.0,male,chest
+95,ISIC_0027023,bkl,60.0,male,face
+807,ISIC_0025378,bkl,55.0,female,face
+5320,ISIC_0027761,nv,50.0,male,trunk
+3692,ISIC_0024976,nv,35.0,male,trunk
+4778,ISIC_0029649,nv,55.0,male,foot
+1196,ISIC_0024386,df,40.0,female,lower extremity
+2255,ISIC_0031498,mel,65.0,male,back
+4873,ISIC_0028895,nv,55.0,female,lower extremity
+1580,ISIC_0034106,mel,65.0,male,foot
+7036,ISIC_0025909,nv,35.0,male,chest
+7789,ISIC_0031482,nv,55.0,female,lower extremity
+6851,ISIC_0026389,nv,70.0,male,back
+1757,ISIC_0033545,mel,45.0,male,upper extremity
+2424,ISIC_0025612,vasc,45.0,female,neck
+2916,ISIC_0025509,bcc,55.0,male,back
+5873,ISIC_0031232,nv,35.0,female,trunk
+8587,ISIC_0026222,nv,85.0,female,upper extremity
+6892,ISIC_0030063,nv,50.0,male,back
+9268,ISIC_0024857,nv,30.0,male,foot
+9466,ISIC_0033821,nv,55.0,female,trunk
+3461,ISIC_0025444,nv,50.0,female,upper extremity
+2484,ISIC_0028495,bcc,50.0,female,back
+2377,ISIC_0033762,vasc,60.0,male,trunk
+6993,ISIC_0032309,nv,25.0,male,trunk
+432,ISIC_0027320,bkl,85.0,female,neck
+5658,ISIC_0029134,nv,30.0,male,trunk
+2957,ISIC_0032164,bcc,65.0,female,chest
+3620,ISIC_0025868,nv,50.0,female,lower extremity
+9361,ISIC_0027948,nv,25.0,female,trunk
+9550,ISIC_0033681,nv,60.0,male,unknown
+2525,ISIC_0028457,bcc,75.0,female,face
+943,ISIC_0033865,bkl,70.0,male,lower extremity
+6476,ISIC_0029739,nv,40.0,female,lower extremity
+2080,ISIC_0027442,mel,80.0,male,neck
+438,ISIC_0028511,bkl,75.0,male,upper extremity
+4143,ISIC_0026235,nv,55.0,female,trunk
+8521,ISIC_0029121,nv,60.0,male,back
+2448,ISIC_0031276,vasc,75.0,male,abdomen
+5352,ISIC_0027481,nv,65.0,male,trunk
+6429,ISIC_0029670,nv,50.0,male,lower extremity
+4768,ISIC_0027274,nv,60.0,male,abdomen
+1257,ISIC_0027277,mel,40.0,male,lower extremity
+9060,ISIC_0024784,nv,50.0,female,upper extremity
+270,ISIC_0025157,bkl,45.0,male,face
+8076,ISIC_0031411,nv,55.0,female,lower extremity
+4367,ISIC_0026896,nv,40.0,female,back
+8315,ISIC_0025511,nv,35.0,female,back
+9040,ISIC_0028761,nv,45.0,female,lower extremity
+9225,ISIC_0028785,nv,30.0,female,lower extremity
+8336,ISIC_0024349,nv,35.0,male,lower extremity
+5316,ISIC_0030864,nv,45.0,female,trunk
+6529,ISIC_0027690,nv,40.0,male,trunk
+347,ISIC_0031542,bkl,45.0,male,upper extremity
+9801,ISIC_0030375,akiec,65.0,male,face
+7346,ISIC_0032595,nv,45.0,female,lower extremity
+7679,ISIC_0033194,nv,45.0,male,lower extremity
+8134,ISIC_0030305,nv,25.0,male,back
+2463,ISIC_0034093,bcc,80.0,female,face
+992,ISIC_0026205,bkl,35.0,male,back
+9592,ISIC_0033053,nv,30.0,female,upper extremity
+1485,ISIC_0034046,mel,45.0,male,back
+1928,ISIC_0024929,mel,55.0,male,back
+9503,ISIC_0033584,nv,30.0,female,back
+619,ISIC_0032456,bkl,55.0,male,back
+3910,ISIC_0030711,nv,50.0,female,lower extremity
+7884,ISIC_0032581,nv,50.0,female,abdomen
+4788,ISIC_0032252,nv,45.0,female,back
+6499,ISIC_0029509,nv,65.0,male,back
+21,ISIC_0025033,bkl,60.0,male,back
+9314,ISIC_0031188,nv,85.0,female,back
+6396,ISIC_0027158,nv,45.0,male,back
+2852,ISIC_0029323,bcc,75.0,male,chest
+6792,ISIC_0028154,nv,70.0,male,upper extremity
+5804,ISIC_0028144,nv,35.0,female,trunk
+8207,ISIC_0024658,nv,35.0,male,back
+7689,ISIC_0033273,nv,35.0,female,lower extremity
+4537,ISIC_0026975,nv,45.0,female,chest
+2299,ISIC_0029021,mel,65.0,female,back
+8358,ISIC_0027514,nv,75.0,male,trunk
+4790,ISIC_0024532,nv,40.0,male,abdomen
+7741,ISIC_0025769,nv,30.0,female,lower extremity
+7464,ISIC_0033544,nv,55.0,male,lower extremity
+8833,ISIC_0030008,nv,30.0,male,back
+1738,ISIC_0032958,mel,70.0,male,lower extremity
+8904,ISIC_0032233,nv,75.0,male,back
+7207,ISIC_0033308,nv,30.0,female,abdomen
+9125,ISIC_0030279,nv,60.0,male,back
+7347,ISIC_0034281,nv,35.0,female,abdomen
+2112,ISIC_0026868,mel,75.0,male,lower extremity
+7375,ISIC_0032612,nv,10.0,female,foot
+1872,ISIC_0028520,mel,75.0,male,back
+3763,ISIC_0030570,nv,5.0,male,abdomen
+1161,ISIC_0024330,df,40.0,male,lower extremity
+9242,ISIC_0029247,nv,0.0,male,lower extremity
+7459,ISIC_0032999,nv,45.0,male,foot
+1681,ISIC_0033872,mel,75.0,male,back
+73,ISIC_0025140,bkl,75.0,male,ear
+2630,ISIC_0033483,bcc,45.0,male,abdomen
+5886,ISIC_0028922,nv,80.0,male,lower extremity
+3105,ISIC_0031833,nv,45.0,female,lower extremity
+294,ISIC_0026623,bkl,70.0,male,upper extremity
+7393,ISIC_0032585,nv,25.0,male,abdomen
+892,ISIC_0028123,bkl,65.0,female,face
+6347,ISIC_0024359,nv,40.0,male,back
+8976,ISIC_0028472,nv,60.0,male,abdomen
+1705,ISIC_0032535,mel,65.0,male,back
+9785,ISIC_0024517,akiec,65.0,male,back
+2063,ISIC_0028017,mel,50.0,female,back
+9984,ISIC_0029830,akiec,60.0,male,face
+3394,ISIC_0027843,nv,60.0,male,lower extremity
+52,ISIC_0029147,bkl,75.0,male,back
+3297,ISIC_0029015,nv,45.0,male,back
+9909,ISIC_0027580,akiec,75.0,male,upper extremity
+5276,ISIC_0031843,nv,40.0,male,upper extremity
+3855,ISIC_0030337,nv,40.0,female,trunk
+9043,ISIC_0026008,nv,65.0,male,abdomen
+5468,ISIC_0030638,nv,65.0,male,abdomen
+5179,ISIC_0028269,nv,45.0,female,back
+6316,ISIC_0027625,nv,55.0,female,trunk
+10006,ISIC_0024948,akiec,55.0,female,face
+8307,ISIC_0029516,nv,20.0,female,back
+8554,ISIC_0026512,nv,30.0,male,back
+9304,ISIC_0025168,nv,10.0,female,upper extremity
+4065,ISIC_0027775,nv,65.0,male,lower extremity
+8695,ISIC_0026513,nv,60.0,male,back
+2075,ISIC_0028418,mel,45.0,female,face
+8810,ISIC_0026752,nv,75.0,female,back
+8035,ISIC_0033873,nv,25.0,male,unknown
+404,ISIC_0024676,bkl,75.0,female,face
+8890,ISIC_0031644,nv,85.0,female,upper extremity
+3630,ISIC_0024944,nv,40.0,male,lower extremity
+6322,ISIC_0028172,nv,55.0,female,lower extremity
+407,ISIC_0032051,bkl,50.0,male,chest
+2746,ISIC_0030511,bcc,70.0,female,back
+5128,ISIC_0030939,nv,45.0,female,trunk
+894,ISIC_0027463,bkl,75.0,male,face
+9650,ISIC_0027265,nv,55.0,female,chest
+9871,ISIC_0030986,akiec,55.0,female,face
+7422,ISIC_0032520,nv,45.0,female,upper extremity
+8266,ISIC_0027853,nv,30.0,female,abdomen
+419,ISIC_0026861,bkl,85.0,female,face
+3666,ISIC_0030875,nv,50.0,female,back
+2129,ISIC_0026694,mel,50.0,female,back
+1521,ISIC_0033034,mel,70.0,female,back
+4903,ISIC_0029691,nv,50.0,female,trunk
+6558,ISIC_0025888,nv,35.0,female,lower extremity
+4377,ISIC_0031032,nv,65.0,female,lower extremity
+2481,ISIC_0028807,bcc,70.0,male,back
+508,ISIC_0027760,bkl,80.0,male,face
+9547,ISIC_0033290,nv,60.0,male,unknown
+9350,ISIC_0032388,nv,5.0,male,face
+4035,ISIC_0026832,nv,80.0,male,trunk
+7363,ISIC_0034320,nv,25.0,female,chest
+1258,ISIC_0028642,mel,40.0,male,lower extremity
+6970,ISIC_0031592,nv,55.0,male,abdomen
+5456,ISIC_0029154,nv,40.0,female,abdomen
+6904,ISIC_0029409,nv,55.0,male,upper extremity
+7322,ISIC_0033113,nv,35.0,male,upper extremity
+3508,ISIC_0028466,nv,50.0,female,abdomen
+6098,ISIC_0026547,nv,45.0,male,trunk
+9231,ISIC_0030900,nv,75.0,female,back
+8462,ISIC_0031564,nv,50.0,female,back
+2964,ISIC_0026957,bcc,70.0,male,back
+495,ISIC_0032043,bkl,55.0,male,back
+3035,ISIC_0031068,nv,45.0,male,lower extremity
+3611,ISIC_0030955,nv,45.0,male,abdomen
+3875,ISIC_0025877,nv,55.0,female,lower extremity
+7202,ISIC_0025160,nv,10.0,female,trunk
+5425,ISIC_0031859,nv,75.0,male,lower extremity
+8154,ISIC_0031703,nv,30.0,female,abdomen
+4384,ISIC_0026119,nv,60.0,female,abdomen
+7712,ISIC_0032530,nv,25.0,female,lower extremity
+276,ISIC_0030542,bkl,70.0,female,chest
+6215,ISIC_0030780,nv,45.0,male,trunk
+7226,ISIC_0033003,nv,60.0,female,back
+8044,ISIC_0033228,nv,25.0,male,unknown
+7191,ISIC_0033549,nv,20.0,female,lower extremity
+5432,ISIC_0026410,nv,60.0,male,upper extremity
+9342,ISIC_0027140,nv,15.0,female,lower extremity
+767,ISIC_0031825,bkl,65.0,female,face
+265,ISIC_0033060,bkl,80.0,male,back
+7099,ISIC_0025336,nv,45.0,male,abdomen
+882,ISIC_0027820,bkl,50.0,male,face
+369,ISIC_0026634,bkl,80.0,male,upper extremity
+6914,ISIC_0030688,nv,70.0,male,back
+4402,ISIC_0032499,nv,45.0,male,lower extremity
+643,ISIC_0032445,bkl,60.0,female,face
+5433,ISIC_0024485,nv,60.0,male,upper extremity
+4316,ISIC_0031343,nv,45.0,female,abdomen
+213,ISIC_0034115,bkl,40.0,female,chest
+5048,ISIC_0030169,nv,65.0,male,abdomen
+5375,ISIC_0025283,nv,50.0,female,foot
+8109,ISIC_0026125,nv,20.0,female,lower extremity
+2635,ISIC_0030314,bcc,40.0,female,back
+5791,ISIC_0030691,nv,45.0,male,upper extremity
+5010,ISIC_0032010,nv,50.0,female,trunk
+3083,ISIC_0025415,nv,45.0,male,abdomen
+4239,ISIC_0028683,nv,50.0,female,trunk
+3363,ISIC_0030880,nv,55.0,male,lower extremity
+6469,ISIC_0024991,nv,40.0,female,back
+5065,ISIC_0024335,nv,45.0,female,lower extremity
+5937,ISIC_0030317,nv,50.0,female,upper extremity
+9843,ISIC_0029840,akiec,60.0,male,face
+3886,ISIC_0032188,nv,55.0,male,abdomen
+1011,ISIC_0031511,bkl,80.0,male,abdomen
+5472,ISIC_0030983,nv,65.0,male,back
+2883,ISIC_0025322,bcc,65.0,male,upper extremity
+5005,ISIC_0025882,nv,55.0,male,abdomen
+8834,ISIC_0033232,mel,25.0,male,upper extremity
+6043,ISIC_0028039,nv,20.0,male,foot
+6610,ISIC_0026334,nv,50.0,male,abdomen
+5413,ISIC_0031788,nv,70.0,male,lower extremity
+4129,ISIC_0029980,nv,60.0,male,trunk
+9524,ISIC_0032828,nv,20.0,male,back
+308,ISIC_0029003,bkl,75.0,male,abdomen
+9263,ISIC_0028272,nv,75.0,female,back
+9354,ISIC_0025860,nv,5.0,male,foot
+3865,ISIC_0030481,nv,55.0,female,lower extremity
+1579,ISIC_0033103,mel,65.0,male,foot
+4672,ISIC_0028839,nv,40.0,female,abdomen
+9844,ISIC_0027047,akiec,70.0,male,upper extremity
+6075,ISIC_0025288,nv,65.0,female,abdomen
+84,ISIC_0030768,bkl,40.0,male,face
+5126,ISIC_0030438,nv,40.0,male,lower extremity
+5807,ISIC_0030558,nv,35.0,female,upper extremity
+7545,ISIC_0033976,nv,35.0,male,back
+6246,ISIC_0029065,nv,40.0,female,trunk
+6815,ISIC_0024604,nv,60.0,male,upper extremity
+9096,ISIC_0030856,nv,65.0,female,back
+3974,ISIC_0026515,nv,45.0,female,lower extremity
+7668,ISIC_0033263,nv,50.0,female,back
+2903,ISIC_0029053,bcc,75.0,female,back
+7990,ISIC_0033015,nv,35.0,male,neck
+2300,ISIC_0027359,mel,45.0,female,lower extremity
+4515,ISIC_0029874,nv,45.0,male,lower extremity
+6667,ISIC_0032205,nv,45.0,female,abdomen
+1570,ISIC_0033180,mel,30.0,female,upper extremity
+6488,ISIC_0031147,nv,35.0,female,foot
+2621,ISIC_0033666,bcc,60.0,male,face
+2529,ISIC_0027609,bcc,80.0,male,scalp
+3203,ISIC_0027316,nv,45.0,female,trunk
+5115,ISIC_0030288,nv,55.0,male,trunk
+7246,ISIC_0028214,nv,50.0,male,scalp
+1781,ISIC_0033813,mel,55.0,male,lower extremity
+6367,ISIC_0028073,nv,30.0,female,trunk
+9857,ISIC_0028558,akiec,75.0,male,face
+9322,ISIC_0029668,nv,5.0,female,lower extremity
+6162,ISIC_0031910,nv,25.0,male,trunk
+8533,ISIC_0024899,nv,25.0,female,unknown
+3425,ISIC_0031291,nv,45.0,female,back
+6795,ISIC_0031733,nv,70.0,male,hand
+4197,ISIC_0029440,nv,60.0,male,lower extremity
+6900,ISIC_0030064,nv,25.0,male,abdomen
+1798,ISIC_0032751,mel,25.0,female,back
+7673,ISIC_0033933,nv,20.0,male,chest
+5959,ISIC_0028575,nv,55.0,male,trunk
+686,ISIC_0024338,bkl,45.0,female,face
+5390,ISIC_0031096,nv,45.0,female,lower extremity
+8482,ISIC_0032474,nv,60.0,male,chest
+8246,ISIC_0029188,nv,60.0,female,lower extremity
+4108,ISIC_0031675,nv,50.0,female,lower extremity
+4024,ISIC_0028397,nv,70.0,female,lower extremity
+4735,ISIC_0028516,nv,70.0,female,trunk
+9226,ISIC_0025141,nv,60.0,female,abdomen
+736,ISIC_0031261,bkl,75.0,male,face
+1481,ISIC_0032532,mel,80.0,male,back
+398,ISIC_0024445,bkl,55.0,male,lower extremity
+2660,ISIC_0033248,bcc,85.0,female,neck
+4856,ISIC_0026338,nv,65.0,female,trunk
+4429,ISIC_0026747,nv,40.0,male,lower extremity
+1659,ISIC_0032699,mel,65.0,male,ear
+3125,ISIC_0027634,nv,60.0,female,abdomen
+9339,ISIC_0030963,nv,5.0,male,trunk
+1272,ISIC_0027063,mel,80.0,male,abdomen
+9449,ISIC_0033596,nv,35.0,male,unknown
+1232,ISIC_0027872,mel,55.0,female,foot
+8841,ISIC_0031081,nv,35.0,male,back
+5241,ISIC_0027794,nv,50.0,male,back
+7964,ISIC_0033396,nv,80.0,male,back
+5303,ISIC_0029690,nv,50.0,male,lower extremity
+2550,ISIC_0032414,bcc,75.0,female,lower extremity
+7004,ISIC_0026421,nv,50.0,male,neck
+5925,ISIC_0029468,nv,30.0,male,abdomen
+8481,ISIC_0030675,nv,55.0,female,foot
+7904,ISIC_0033880,nv,45.0,female,foot
+2205,ISIC_0030032,mel,75.0,male,upper extremity
+7432,ISIC_0033291,nv,35.0,male,trunk
+2800,ISIC_0031007,bcc,80.0,male,face
+7013,ISIC_0030406,nv,45.0,male,foot
+6464,ISIC_0028328,nv,40.0,female,lower extremity
+3887,ISIC_0025822,nv,55.0,male,neck
+8268,ISIC_0025078,nv,20.0,female,trunk
+4086,ISIC_0032352,nv,60.0,female,lower extremity
+2713,ISIC_0027371,bcc,65.0,male,face
+5052,ISIC_0028563,nv,65.0,male,lower extremity
+218,ISIC_0033853,bkl,80.0,male,back
+6975,ISIC_0026303,nv,55.0,male,lower extremity
+2790,ISIC_0031175,bcc,85.0,male,lower extremity
+6496,ISIC_0029200,nv,65.0,male,abdomen
+5158,ISIC_0028781,nv,45.0,male,abdomen
+8186,ISIC_0024936,nv,25.0,male,abdomen
+8183,ISIC_0028692,nv,45.0,female,chest
+7016,ISIC_0028222,nv,35.0,male,scalp
+980,ISIC_0029113,bkl,55.0,male,abdomen
+2920,ISIC_0026829,bcc,60.0,female,back
+9400,ISIC_0032589,nv,70.0,male,trunk
+7129,ISIC_0030462,nv,40.0,male,trunk
+568,ISIC_0024477,bkl,60.0,male,back
+1007,ISIC_0029251,bkl,70.0,female,abdomen
+672,ISIC_0031951,bkl,60.0,male,back
+6643,ISIC_0025134,nv,55.0,male,neck
+7847,ISIC_0033221,nv,60.0,male,lower extremity
+576,ISIC_0028237,bkl,85.0,female,face
+9442,ISIC_0033335,nv,20.0,male,back
+7151,ISIC_0034225,nv,55.0,male,back
+2101,ISIC_0026604,mel,70.0,male,ear
+9066,ISIC_0027756,nv,25.0,female,lower extremity
+6355,ISIC_0028295,nv,30.0,female,lower extremity
+2046,ISIC_0025651,mel,70.0,male,back
+1447,ISIC_0026963,mel,65.0,male,face
+8017,ISIC_0033864,nv,0.0,unknown,back
+6715,ISIC_0025621,nv,30.0,female,neck
+172,ISIC_0033677,bkl,60.0,female,lower extremity
+8206,ISIC_0026272,nv,35.0,male,back
+4888,ISIC_0029019,nv,40.0,male,trunk
+6247,ISIC_0026962,nv,40.0,female,back
+7541,ISIC_0033427,nv,60.0,male,abdomen
+836,ISIC_0031987,bkl,30.0,female,back
+8884,ISIC_0027360,nv,40.0,male,chest
+5078,ISIC_0028176,nv,50.0,male,trunk
+1555,ISIC_0033216,mel,30.0,female,back
+1632,ISIC_0033578,mel,65.0,male,face
+7704,ISIC_0032794,nv,30.0,female,abdomen
+9426,ISIC_0033540,nv,50.0,female,upper extremity
+6776,ISIC_0031160,nv,35.0,female,upper extremity
+1518,ISIC_0032976,mel,80.0,female,face
+5800,ISIC_0030097,nv,35.0,male,lower extremity
+494,ISIC_0025746,bkl,60.0,female,lower extremity
+8302,ISIC_0030941,nv,60.0,male,back
+9451,ISIC_0033489,nv,35.0,male,unknown
+7140,ISIC_0033058,nv,50.0,male,upper extremity
+2998,ISIC_0029961,nv,50.0,male,lower extremity
+9828,ISIC_0027343,akiec,75.0,female,lower extremity
+111,ISIC_0029674,bkl,65.0,male,face
+1353,ISIC_0026369,mel,30.0,female,lower extremity
+5186,ISIC_0030476,nv,55.0,female,unknown
+3857,ISIC_0028105,nv,35.0,male,lower extremity
+9896,ISIC_0027447,akiec,65.0,male,upper extremity
+8071,ISIC_0024424,nv,35.0,male,trunk
+8813,ISIC_0030873,nv,45.0,male,abdomen
+3323,ISIC_0032366,nv,50.0,male,trunk
+9151,ISIC_0026711,nv,50.0,male,chest
+4566,ISIC_0028997,nv,35.0,female,face
+3145,ISIC_0032087,nv,50.0,female,back
+7201,ISIC_0034110,nv,10.0,female,trunk
+6806,ISIC_0031883,nv,40.0,female,abdomen
+6313,ISIC_0028300,nv,55.0,female,back
+6197,ISIC_0032353,nv,45.0,male,trunk
+6592,ISIC_0030146,nv,65.0,female,trunk
+5870,ISIC_0024681,nv,35.0,female,trunk
+4119,ISIC_0028771,nv,80.0,male,trunk
+3897,ISIC_0031820,nv,65.0,female,lower extremity
+187,ISIC_0032863,bkl,85.0,male,chest
+1191,ISIC_0025903,df,60.0,male,abdomen
+6366,ISIC_0026121,nv,30.0,female,trunk
+3769,ISIC_0027910,nv,5.0,male,trunk
+6747,ISIC_0026251,nv,30.0,female,face
+9995,ISIC_0027950,akiec,60.0,female,face
+2022,ISIC_0029172,mel,70.0,male,lower extremity
+8909,ISIC_0030251,nv,65.0,male,lower extremity
+1575,ISIC_0033068,mel,80.0,male,upper extremity
+979,ISIC_0026790,bkl,55.0,male,back
+8761,ISIC_0028600,nv,65.0,female,abdomen
+6992,ISIC_0029357,nv,50.0,female,lower extremity
+4523,ISIC_0029225,nv,55.0,male,trunk
+7496,ISIC_0032781,nv,70.0,male,chest
+9512,ISIC_0033692,nv,70.0,male,upper extremity
+3920,ISIC_0024563,nv,50.0,female,lower extremity
+5867,ISIC_0031137,nv,50.0,female,lower extremity
+9108,ISIC_0025165,nv,60.0,female,lower extremity
+7581,ISIC_0033833,nv,50.0,female,foot
+9177,ISIC_0024716,nv,75.0,female,upper extremity
+2447,ISIC_0026713,vasc,35.0,female,hand
+6165,ISIC_0025393,nv,25.0,female,face
+1889,ISIC_0031741,mel,45.0,female,back
+9155,ISIC_0029862,nv,40.0,female,lower extremity
+3647,ISIC_0028299,nv,60.0,male,lower extremity
+715,ISIC_0028611,bkl,80.0,female,lower extremity
+6478,ISIC_0025347,nv,35.0,female,trunk
+3901,ISIC_0028912,nv,50.0,female,trunk
+1617,ISIC_0033272,mel,65.0,male,face
+4531,ISIC_0024874,nv,45.0,female,back
+984,ISIC_0026511,bkl,45.0,male,abdomen
+2249,ISIC_0026735,mel,85.0,female,face
+4345,ISIC_0025272,nv,55.0,female,lower extremity
+4550,ISIC_0026412,nv,45.0,male,lower extremity
+2846,ISIC_0027722,bcc,70.0,male,back
+749,ISIC_0025623,bkl,75.0,male,back
+3435,ISIC_0029675,nv,60.0,male,upper extremity
+2617,ISIC_0034143,bcc,25.0,male,back
+110,ISIC_0027533,bkl,55.0,male,face
+6509,ISIC_0026736,nv,70.0,male,abdomen
+3841,ISIC_0027108,nv,50.0,male,abdomen
+9481,ISIC_0033082,nv,25.0,male,abdomen
+1294,ISIC_0030134,mel,30.0,female,abdomen
+9782,ISIC_0029860,akiec,85.0,male,chest
+9561,ISIC_0033421,nv,40.0,female,unknown
+186,ISIC_0033778,bkl,85.0,male,chest
+396,ISIC_0024494,bkl,55.0,female,chest
+875,ISIC_0031893,bkl,70.0,female,face
+1022,ISIC_0028448,bkl,55.0,male,trunk
+6344,ISIC_0028919,nv,60.0,male,lower extremity
+8665,ISIC_0024439,nv,55.0,male,back
+6998,ISIC_0027361,nv,10.0,female,foot
+4885,ISIC_0025896,nv,60.0,male,abdomen
+5109,ISIC_0026356,nv,60.0,female,abdomen
+1952,ISIC_0024640,mel,55.0,female,back
+4057,ISIC_0031532,nv,65.0,male,trunk
+9202,ISIC_0030937,nv,85.0,male,back
+3914,ISIC_0027541,nv,50.0,female,lower extremity
+2834,ISIC_0026433,bcc,70.0,male,chest
+489,ISIC_0031449,bkl,45.0,female,face
+578,ISIC_0027990,bkl,55.0,male,scalp
+58,ISIC_0028052,bkl,60.0,male,face
+7331,ISIC_0033009,nv,40.0,male,trunk
+5565,ISIC_0031858,nv,40.0,male,lower extremity
+9523,ISIC_0028066,nv,20.0,male,back
+5453,ISIC_0027430,nv,40.0,female,lower extremity
+8099,ISIC_0029814,nv,35.0,female,lower extremity
+6743,ISIC_0027198,nv,25.0,male,back
+35,ISIC_0024324,bkl,85.0,male,back
+2265,ISIC_0026516,mel,45.0,female,abdomen
+6748,ISIC_0029072,nv,30.0,female,face
+4960,ISIC_0029948,nv,35.0,male,back
+433,ISIC_0031591,bkl,60.0,female,face
+4651,ISIC_0032137,nv,70.0,male,upper extremity
+2959,ISIC_0025031,bcc,60.0,male,abdomen
+5153,ISIC_0029375,nv,55.0,male,abdomen
+9945,ISIC_0026171,akiec,60.0,female,face
+2757,ISIC_0025940,bcc,55.0,male,face
+1304,ISIC_0032244,mel,75.0,female,face
+2260,ISIC_0025791,mel,80.0,male,foot
+3076,ISIC_0030523,nv,55.0,male,lower extremity
+5860,ISIC_0028837,nv,60.0,male,trunk
+4954,ISIC_0025462,nv,45.0,female,trunk
+3947,ISIC_0028786,nv,65.0,female,trunk
+436,ISIC_0025986,bkl,70.0,female,back
+5877,ISIC_0031027,nv,40.0,female,abdomen
+1341,ISIC_0031972,mel,65.0,female,face
+2177,ISIC_0029642,mel,60.0,female,lower extremity
+9297,ISIC_0029759,nv,65.0,female,lower extremity
+3599,ISIC_0024901,nv,20.0,female,lower extremity
+5612,ISIC_0031530,nv,55.0,male,back
+7312,ISIC_0032767,nv,65.0,male,back
+3680,ISIC_0027061,nv,45.0,female,lower extremity
+3017,ISIC_0030435,nv,50.0,male,trunk
+8205,ISIC_0032407,nv,40.0,female,back
+8244,ISIC_0029359,nv,60.0,female,chest
+8372,ISIC_0026487,nv,20.0,female,back
+7571,ISIC_0033862,nv,35.0,female,back
+716,ISIC_0024881,bkl,65.0,male,back
+2275,ISIC_0030122,mel,55.0,male,back
+5533,ISIC_0030727,nv,50.0,female,trunk
+2576,ISIC_0032482,bcc,70.0,male,face
+2469,ISIC_0029193,bcc,85.0,male,face
+8715,ISIC_0030219,nv,70.0,female,back
+5024,ISIC_0025395,nv,55.0,female,lower extremity
+6586,ISIC_0026061,nv,65.0,female,trunk
+9315,ISIC_0030589,nv,50.0,female,scalp
+362,ISIC_0030227,bkl,65.0,male,lower extremity
+9643,ISIC_0025816,nv,75.0,male,lower extremity
+4848,ISIC_0024460,nv,50.0,female,neck
+5356,ISIC_0025857,nv,80.0,male,upper extremity
+8676,ISIC_0026097,nv,5.0,male,upper extremity
+1831,ISIC_0032630,mel,70.0,male,back
+290,ISIC_0027713,bkl,80.0,male,face
+7768,ISIC_0032582,nv,50.0,female,back
+1502,ISIC_0032833,mel,55.0,male,trunk
+5417,ISIC_0025848,nv,60.0,male,abdomen
+313,ISIC_0032335,bkl,80.0,male,back
+2865,ISIC_0030096,bcc,65.0,male,chest
+5987,ISIC_0031083,nv,65.0,female,abdomen
+4043,ISIC_0028561,nv,50.0,male,abdomen
+5278,ISIC_0028469,nv,40.0,male,lower extremity
+7796,ISIC_0033080,nv,60.0,male,trunk
+6913,ISIC_0027772,nv,30.0,male,unknown
+4152,ISIC_0024977,nv,60.0,male,trunk
+6055,ISIC_0031010,nv,45.0,male,lower extremity
+3618,ISIC_0032288,nv,50.0,female,foot
+6832,ISIC_0026223,nv,55.0,female,upper extremity
+2649,ISIC_0032611,bcc,85.0,male,face
+2372,ISIC_0033591,vasc,80.0,female,lower extremity
+6671,ISIC_0026632,nv,45.0,female,upper extremity
+3980,ISIC_0032399,nv,40.0,female,back
+3295,ISIC_0028962,nv,45.0,male,back
+954,ISIC_0034142,bkl,70.0,male,back
+4808,ISIC_0028187,nv,65.0,female,lower extremity
+7019,ISIC_0026055,nv,50.0,female,neck
+9959,ISIC_0030463,akiec,70.0,female,face
+6422,ISIC_0025961,nv,35.0,male,lower extremity
+1985,ISIC_0025121,mel,50.0,female,upper extremity
+5355,ISIC_0029718,nv,80.0,male,trunk
+511,ISIC_0029897,bkl,80.0,female,unknown
+2059,ISIC_0030501,mel,50.0,male,back
+3546,ISIC_0025375,nv,35.0,female,lower extremity
+6796,ISIC_0027240,nv,70.0,male,hand
+7601,ISIC_0033107,nv,65.0,male,lower extremity
+159,ISIC_0029929,bkl,80.0,male,upper extremity
+5231,ISIC_0024921,nv,60.0,male,trunk
+6205,ISIC_0028743,nv,30.0,female,back
+7966,ISIC_0034033,nv,20.0,female,back
+2431,ISIC_0031215,vasc,75.0,male,trunk
+7301,ISIC_0033964,nv,40.0,male,abdomen
+4355,ISIC_0029556,nv,60.0,male,back
+4253,ISIC_0028383,nv,50.0,male,back
+2077,ISIC_0029744,mel,35.0,female,abdomen
+9430,ISIC_0033338,nv,50.0,female,chest
+5031,ISIC_0028996,nv,60.0,female,upper extremity
+9591,ISIC_0033025,nv,30.0,female,upper extremity
+5586,ISIC_0032177,nv,45.0,male,back
+2235,ISIC_0030795,mel,60.0,male,back
+2218,ISIC_0029705,mel,80.0,male,chest
+3370,ISIC_0027572,nv,55.0,male,abdomen
+4081,ISIC_0026791,nv,60.0,female,trunk
+7176,ISIC_0034290,nv,60.0,female,back
+4094,ISIC_0028979,nv,40.0,male,lower extremity
+6798,ISIC_0032334,nv,40.0,male,back
+7324,ISIC_0033172,nv,40.0,female,chest
+9467,ISIC_0033457,nv,55.0,female,trunk
+7035,ISIC_0031080,nv,30.0,female,abdomen
+8054,ISIC_0030537,nv,45.0,female,unknown
+8787,ISIC_0028580,nv,60.0,female,face
+2672,ISIC_0031569,bcc,30.0,female,back
+6579,ISIC_0029350,nv,35.0,female,abdomen
+3891,ISIC_0031172,nv,55.0,male,lower extremity
+1435,ISIC_0025265,mel,30.0,male,back
+2056,ISIC_0024571,mel,65.0,male,face
+2313,ISIC_0025500,mel,55.0,female,upper extremity
+5295,ISIC_0031003,nv,40.0,female,trunk
+9891,ISIC_0032014,akiec,60.0,male,back
+9432,ISIC_0032600,nv,50.0,female,back
+1741,ISIC_0033444,mel,50.0,male,abdomen
+2573,ISIC_0025700,bcc,85.0,female,face
+8557,ISIC_0026404,nv,60.0,male,back
+5546,ISIC_0026004,nv,55.0,female,lower extremity
+3152,ISIC_0029273,nv,50.0,female,upper extremity
+292,ISIC_0026298,bkl,60.0,female,face
+1843,ISIC_0034076,mel,55.0,female,lower extremity
+6725,ISIC_0028576,nv,30.0,female,trunk
+6687,ISIC_0032475,nv,50.0,male,trunk
+8290,ISIC_0029865,nv,35.0,female,abdomen
+7590,ISIC_0033627,nv,65.0,male,back
+329,ISIC_0032168,bkl,60.0,female,upper extremity
+3369,ISIC_0028025,nv,55.0,male,abdomen
+4434,ISIC_0024588,nv,40.0,male,neck
+5073,ISIC_0026187,nv,35.0,female,upper extremity
+4532,ISIC_0028501,nv,45.0,female,back
+6700,ISIC_0026890,nv,30.0,male,upper extremity
+4301,ISIC_0029906,nv,55.0,female,lower extremity
+5615,ISIC_0026479,nv,50.0,female,lower extremity
+10003,ISIC_0029141,akiec,60.0,female,face
+7390,ISIC_0033409,nv,30.0,female,lower extremity
+9137,ISIC_0031611,nv,60.0,male,abdomen
+4899,ISIC_0029941,nv,40.0,male,trunk
+9293,ISIC_0027266,nv,65.0,male,back
+7103,ISIC_0025641,nv,60.0,female,lower extremity
+3208,ISIC_0030888,nv,45.0,female,abdomen
+7552,ISIC_0028684,nv,30.0,female,upper extremity
+9963,ISIC_0027452,akiec,70.0,male,upper extremity
+2326,ISIC_0029404,vasc,10.0,male,trunk
+3597,ISIC_0031582,nv,40.0,female,trunk
+2425,ISIC_0027522,vasc,55.0,male,abdomen
+8386,ISIC_0028706,nv,70.0,female,foot
+3148,ISIC_0031604,nv,50.0,female,trunk
+4076,ISIC_0028279,nv,70.0,male,trunk
+7628,ISIC_0032608,nv,70.0,male,chest
+8780,ISIC_0025684,nv,45.0,female,back
+3613,ISIC_0031279,nv,45.0,male,back
+4230,ISIC_0024543,nv,45.0,male,lower extremity
+1028,ISIC_0030067,bkl,70.0,male,face
+9992,ISIC_0033811,akiec,65.0,female,face
+1752,ISIC_0034253,mel,60.0,male,chest
+4131,ISIC_0032050,nv,60.0,male,trunk
+9831,ISIC_0025637,akiec,75.0,male,face
+5285,ISIC_0029506,nv,60.0,male,abdomen
+5408,ISIC_0027292,nv,75.0,male,trunk
+7521,ISIC_0033729,nv,65.0,male,back
+6195,ISIC_0028754,nv,45.0,male,abdomen
+3180,ISIC_0025325,nv,50.0,male,lower extremity
+2151,ISIC_0032476,mel,60.0,male,back
+3880,ISIC_0026529,nv,55.0,male,abdomen
+4380,ISIC_0031679,nv,55.0,female,trunk
+1857,ISIC_0034170,mel,80.0,female,face
+1369,ISIC_0024675,mel,65.0,female,lower extremity
+7711,ISIC_0030126,nv,45.0,male,back
+3127,ISIC_0026755,nv,45.0,female,upper extremity
+8179,ISIC_0031521,nv,35.0,male,chest
+3413,ISIC_0026594,nv,50.0,male,back
+6839,ISIC_0031143,nv,50.0,male,lower extremity
+7694,ISIC_0032693,nv,40.0,female,back
+4133,ISIC_0029087,nv,60.0,male,upper extremity
+231,ISIC_0033529,bkl,75.0,male,back
+4963,ISIC_0028541,nv,50.0,female,lower extremity
+8872,ISIC_0029465,nv,75.0,female,lower extremity
+2596,ISIC_0032959,bcc,50.0,male,face
+7951,ISIC_0033684,nv,55.0,male,chest
+1462,ISIC_0029453,mel,40.0,female,upper extremity
+474,ISIC_0024381,bkl,75.0,female,back
+6301,ISIC_0024486,nv,50.0,male,upper extremity
+7020,ISIC_0027645,nv,50.0,female,neck
+4801,ISIC_0029710,nv,45.0,female,back
+6090,ISIC_0025329,nv,25.0,male,trunk
+7797,ISIC_0034129,nv,60.0,male,trunk
+1308,ISIC_0029651,mel,65.0,male,back
+366,ISIC_0031394,bkl,60.0,male,upper extremity
+5079,ISIC_0031736,nv,50.0,male,back
+9294,ISIC_0025271,nv,65.0,male,back
+3839,ISIC_0032263,nv,40.0,male,lower extremity
+838,ISIC_0025515,bkl,30.0,female,back
+100,ISIC_0025876,bkl,70.0,male,back
+7958,ISIC_0033774,nv,45.0,female,back
+1288,ISIC_0029913,mel,30.0,female,lower extremity
+5707,ISIC_0025841,nv,40.0,male,lower extremity
+4681,ISIC_0032377,nv,55.0,female,lower extremity
+214,ISIC_0033776,bkl,40.0,female,abdomen
+6240,ISIC_0024610,nv,45.0,male,lower extremity
+6118,ISIC_0029229,nv,40.0,male,back
+1640,ISIC_0033522,mel,40.0,female,back
+6940,ISIC_0027103,nv,15.0,female,neck
+6800,ISIC_0030609,nv,60.0,male,trunk
+10001,ISIC_0031922,akiec,60.0,female,face
+5016,ISIC_0031979,nv,45.0,female,back
+5749,ISIC_0026238,nv,45.0,female,trunk
+627,ISIC_0028650,bkl,85.0,female,face
+6788,ISIC_0027684,nv,45.0,female,back
+2788,ISIC_0028556,bcc,55.0,male,back
+6858,ISIC_0031142,nv,25.0,male,face
+7057,ISIC_0031337,nv,60.0,female,foot
+3342,ISIC_0028888,nv,50.0,male,trunk
+7770,ISIC_0032990,nv,50.0,female,back
+7293,ISIC_0025117,nv,25.0,female,hand
+246,ISIC_0033414,bkl,70.0,male,back
+1707,ISIC_0032081,mel,85.0,male,upper extremity
+8178,ISIC_0027052,nv,15.0,male,lower extremity
+9019,ISIC_0032340,nv,20.0,female,lower extremity
+3617,ISIC_0026858,nv,50.0,female,abdomen
+596,ISIC_0030137,bkl,70.0,male,neck
+5680,ISIC_0024521,nv,45.0,female,trunk
+1990,ISIC_0030390,mel,55.0,female,back
+4549,ISIC_0031112,nv,45.0,male,abdomen
+99,ISIC_0026153,bkl,70.0,male,back
+3707,ISIC_0028102,nv,60.0,male,lower extremity
+8261,ISIC_0024366,nv,35.0,female,back
+9488,ISIC_0032868,nv,30.0,male,back
+9222,ISIC_0026358,nv,5.0,male,upper extremity
+3010,ISIC_0032060,nv,50.0,male,upper extremity
+2156,ISIC_0032504,mel,50.0,female,upper extremity
+9017,ISIC_0025989,nv,60.0,female,lower extremity
+7420,ISIC_0033014,nv,40.0,male,back
+5694,ISIC_0029942,nv,45.0,female,lower extremity
+4422,ISIC_0029364,nv,70.0,male,lower extremity
+2328,ISIC_0026092,vasc,75.0,male,upper extremity
+886,ISIC_0024943,bkl,75.0,female,face
+7000,ISIC_0027458,nv,15.0,female,foot
+5436,ISIC_0029078,nv,60.0,male,trunk
+2908,ISIC_0029745,bcc,35.0,male,face
+4284,ISIC_0028616,nv,60.0,female,back
+4776,ISIC_0031370,nv,50.0,male,upper extremity
+6728,ISIC_0026726,nv,75.0,male,back
+1489,ISIC_0032604,mel,75.0,male,chest
+6016,ISIC_0030997,nv,60.0,female,lower extremity
+1016,ISIC_0028497,bkl,80.0,male,face
+2368,ISIC_0032919,vasc,55.0,female,back
+1449,ISIC_0027300,mel,60.0,male,chest
+4019,ISIC_0026510,nv,70.0,female,trunk
+5584,ISIC_0026926,nv,45.0,male,trunk
+6590,ISIC_0025761,nv,65.0,female,lower extremity
+4589,ISIC_0027476,nv,60.0,male,lower extremity
+782,ISIC_0032395,bkl,65.0,female,face
+6530,ISIC_0030985,nv,40.0,male,back
+9694,ISIC_0025178,akiec,65.0,male,lower extremity
+4949,ISIC_0029380,nv,40.0,male,trunk
+2085,ISIC_0031494,mel,55.0,male,upper extremity
+823,ISIC_0030369,bkl,70.0,male,face
+1974,ISIC_0027144,mel,40.0,female,back
+5270,ISIC_0028125,nv,45.0,female,upper extremity
+4943,ISIC_0028161,nv,45.0,female,lower extremity
+9764,ISIC_0027506,akiec,55.0,female,hand
+2358,ISIC_0032867,vasc,45.0,female,chest
+7921,ISIC_0033541,nv,20.0,female,abdomen
+8963,ISIC_0027137,nv,30.0,female,back
+1202,ISIC_0027044,df,35.0,female,lower extremity
+9497,ISIC_0033161,nv,35.0,female,back
+7317,ISIC_0033119,nv,60.0,unknown,foot
+6919,ISIC_0025687,nv,20.0,female,abdomen
+9102,ISIC_0031913,nv,65.0,male,back
+668,ISIC_0028995,bkl,60.0,female,lower extremity
+995,ISIC_0031196,bkl,45.0,male,abdomen
+3054,ISIC_0031895,nv,50.0,female,upper extremity
+4898,ISIC_0030823,nv,40.0,male,trunk
+307,ISIC_0024581,bkl,40.0,male,lower extremity
+7857,ISIC_0032772,nv,15.0,female,lower extremity
+7135,ISIC_0032891,nv,40.0,male,upper extremity
+2363,ISIC_0033031,vasc,45.0,male,upper extremity
+4452,ISIC_0032054,nv,35.0,female,upper extremity
+1789,ISIC_0032887,mel,40.0,male,upper extremity
+6233,ISIC_0031911,nv,40.0,male,back
+732,ISIC_0029329,bkl,85.0,male,back
+2720,ISIC_0029083,bcc,70.0,male,face
+7637,ISIC_0034282,nv,20.0,male,chest
+3803,ISIC_0026812,nv,60.0,male,abdomen
+935,ISIC_0032804,bkl,85.0,male,back
+5370,ISIC_0026332,nv,75.0,male,lower extremity
+8881,ISIC_0028091,nv,5.0,male,scalp
+8741,ISIC_0029191,nv,45.0,female,lower extremity
+7832,ISIC_0034187,nv,15.0,male,back
+3744,ISIC_0030202,nv,45.0,female,lower extremity
+5211,ISIC_0030834,nv,50.0,female,abdomen
+6990,ISIC_0027571,nv,30.0,male,lower extremity
+4687,ISIC_0028954,nv,55.0,female,lower extremity
+1416,ISIC_0024496,mel,60.0,female,lower extremity
+9468,ISIC_0033588,nv,85.0,male,back
+5883,ISIC_0031500,nv,50.0,male,trunk
+775,ISIC_0025465,bkl,80.0,female,face
+5864,ISIC_0030715,nv,50.0,female,lower extremity
+4928,ISIC_0026331,nv,45.0,male,trunk
